@@ -1,0 +1,4 @@
+PyDistances==0.0.29
+polars
+numpy
+scikit-learn
