@@ -1,4 +1,6 @@
 PyDistances==0.0.34
 polars
+pandas
 numpy
-scikit-learn
+scipy
+scikit-learn # just for data processing
